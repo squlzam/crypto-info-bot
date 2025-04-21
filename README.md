@@ -78,7 +78,7 @@ mongod
 5. **Run the bot:**
 
 ```bash
-node index.js
+npm run dev
 ```
 
 You should see: `Bot is running...`  
@@ -94,7 +94,7 @@ Now open Telegram and search for your bot, then start interacting!
 /token_info ethereum
 /set_alert btc 65000
 /list_alerts
-/remove_alert 663c49f21a1c87abc9efde19
+/remove_alert id
 ```
 
 ---
