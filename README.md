@@ -99,18 +99,7 @@ Now open Telegram and search for your bot, then start interacting!
 
 ---
 
-## 📄 License
+## 📄 Demo Video Link
 
-MIT
+[Video Link](https://drive.google.com/file/d/1joVLlxuuo5N-dOgwfZt4G5frjuM3NEfZ/view?usp=sharing)
 
----
-
-## 🙌 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
----
-
-```
-
-Let me know if you want this formatted for `PostgreSQL` or want to deploy it to platforms like Railway or Render as well!
